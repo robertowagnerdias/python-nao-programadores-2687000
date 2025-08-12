@@ -5,12 +5,17 @@
 
 # Declare variáveis do tipo string
 nome = 'roberto dias'
-print(nome)
+profissao = "Analista de Sistemas"
+objetivo = """
+Aprender Python
+para mudar 
+de profissão.
+"""
 
 # Declare variáveis de cada tipo numérico
 idade = 44
-print(idade)
+salario = 1250.00
 
 # Declare uma variável do tipo booleano
-luz = True
-print(luz)
+verdadeiro = True
+falso = False
